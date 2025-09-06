@@ -33,7 +33,7 @@ hotel-booking-website/
     ├── images/         # Images used in the project
     └── icons/          # Icons
 
-<h2>Future Enhancements</h2>
+Future Enhancements
 
 <ul>
 <li>Add a backend with a database to store bookings.</li>
