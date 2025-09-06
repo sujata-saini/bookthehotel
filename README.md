@@ -1,4 +1,4 @@
-Hotel Booking Website
+<h2>Hotel Booking Website</h2>
 
 A simple and responsive Hotel Booking Website built using HTML, CSS, and JavaScript. Browse available hotels with details like location, amenities, and price.
 
@@ -14,7 +14,7 @@ Responsive design for desktop and mobile devices.
 
 User-friendly interface with smooth navigation.
 
-Technologies Used
+<h2>Technologies Used</h2>
 
 HTML5 – Structure and layout of the website.
 
@@ -22,7 +22,7 @@ CSS3 – Styling, animations, and responsive design.
 
 JavaScript – Dynamic functionality like form validation and interactive elements.
 
-Folder Structure
+<h2>Folder Structure</h2>
 
 hotel-booking-website/
 │
@@ -33,12 +33,15 @@ hotel-booking-website/
     ├── images/         # Images used in the project
     └── icons/          # Icons
 
-    Future Enhancements
+    <h2>Future Enhancements</h2>
+<ul>
+<li>Add a backend with a database to store bookings.</li>
 
-.Add a backend with a database to store bookings.
+<li>Implement user authentication.</li>
 
-.Implement user authentication.
+<li>Add payment integration for real bookings.</li>
 
-.Add payment integration for real bookings.
+<li>Filter and search hotels by location, price, or amenities.</li>
 
-.Filter and search hotels by location, price, or amenities.
+    
+</ul>
