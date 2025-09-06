@@ -16,6 +16,7 @@ A simple and responsive Hotel Booking Website built using HTML, CSS, and JavaScr
 - **JavaScript** – Dynamic functionality like form validation and interactive elements.  
 
 ## Folder Structure
+```bash
 hotel-booking-website/
 ├── index.html # Homepage
 ├── styles.css # Main stylesheet
