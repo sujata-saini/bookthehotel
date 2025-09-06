@@ -25,7 +25,6 @@ JavaScript – Dynamic functionality like form validation and interactive elemen
 <h2>Folder Structure</h2>
 
 hotel-booking-website/
-│
 ├── index.html          # Homepage
 ├── styles.css          # Main stylesheet
 ├── script.js           # JavaScript functions
@@ -33,7 +32,8 @@ hotel-booking-website/
     ├── images/         # Images used in the project
     └── icons/          # Icons
 
-    <h2>Future Enhancements</h2>
+<h2>Future Enhancements</h2>
+
 <ul>
 <li>Add a backend with a database to store bookings.</li>
 
