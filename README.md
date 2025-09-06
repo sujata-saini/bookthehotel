@@ -2,7 +2,7 @@ Hotel Booking Website
 
 A simple and responsive Hotel Booking Website built using HTML, CSS, and JavaScript. Browse available hotels with details like location, amenities, and price.
 
-<b>Demo Link: <a href="https://sujata-saini.github.io/bookthehotel">Click here</a>/ </b>
+<b>Demo Link: <a href="https://sujata-saini.github.io/bookthehotel">Click here</a></b>
 
 Features
 
