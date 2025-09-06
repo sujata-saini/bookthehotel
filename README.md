@@ -24,6 +24,7 @@ JavaScript – Dynamic functionality like form validation and interactive elemen
 
 <h2>Folder Structure</h2>
 
+```
 hotel-booking-website/
 ├── index.html          # Homepage
 ├── styles.css          # Main stylesheet
